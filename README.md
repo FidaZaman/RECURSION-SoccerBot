@@ -6,6 +6,7 @@
 - Bluetooth module: HC-05
 - motor driver: L298n
 - led
+- Buck converter
 
 ### Circuit:
 
