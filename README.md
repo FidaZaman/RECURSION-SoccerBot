@@ -22,7 +22,7 @@ Two positive end of each side's two motor is shorted to form one single positive
 | Front LED | - | 7 |
 | Back LED | - | 8 |
 
-### diagram
+### Diagram
 ![Circuit diagram](https://github.com/FidaZaman/RECURSION-SoccerBot/assets/88763525/c0edbad6-573e-40bc-a5a3-611c5eb5c94d)
 
 
