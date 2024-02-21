@@ -1,4 +1,4 @@
-// Sisimpur-SoccerBot © 2024 by Sisimpur is licensed under CC BY-NC-SA 4.0
+// RECURSIONr-SoccerBot © 2024
 
 //========================================
 // Pinout Declarations
@@ -6,8 +6,8 @@
 // Change it according to your circuit.
 // IN1 = OUT1. Same logic for other pins.
 //========================================
-uint8_t out1 = 3;
-uint8_t out2 = 4;
+uint8_t out1 = 4;
+uint8_t out2 = 3;
 uint8_t out3 = 5;
 uint8_t out4 = 6;
 uint8_t front_led = 7;
