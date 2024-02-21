@@ -1,7 +1,7 @@
 // RECURSIONr-SoccerBot © 2024
 
 //========================================
-// Pinout Declarations
+// Pinout Declarations 
 // -=-
 // Change it according to your circuit.
 // IN1 = OUT1. Same logic for other pins.
