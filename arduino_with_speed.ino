@@ -14,7 +14,7 @@ uint8_t front_led = 7;
 uint8_t back_led = 8;
 uint8_t speed_left = 9;
 uint8_t speed_right = 10;
-uint8_t speed[11] = {50, 70, 90, 110, 130, 150, 170, 190, 210, 230, 255}; // speed slider
+uint8_t speed[11] = {50, 70, 90, 110, 130, 150, 170, 190, 210, 230, 255}; // speed slider {change the speed as your requirment from [0 to 9 and q(high)], Ex::50 to 230 amd 255}
 //==------------------------------------==
 
 //===================================================
